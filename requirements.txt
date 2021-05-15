@@ -1,0 +1,16 @@
+Flask==1.1.2
+boto3==1.17.69
+scipy==1.5.4
+numpy==1.19.3
+SoundFile==0.10.3.post1
+librosa==0.8.0
+inflect==5.0.2
+Unidecode==1.1.2
+flask_restplus==0.13.0
+multiprocess==0.70.11.1
+Flask_Script==2.0.6
+numba==0.52.0
+matplotlib==3.3.3
+lws==1.2.7
+tensorflow==1.15.0
+Werkzeug==0.16.1
